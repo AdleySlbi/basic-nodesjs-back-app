@@ -1,0 +1,23 @@
+{
+  "name": "sample_back_end_app",
+  "version": "1.0.0",
+  "description": "Sample back-end application",
+  "main": "index.js",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.1",
+    "dotenv": "^8.2.0",
+    "joi": "^17.3.0",
+    "knex": "^0.21.10",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "AdleySlb",
+  "license": "ISC"
+}
