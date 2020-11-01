@@ -19,5 +19,13 @@
     "start": "nodemon index.js"
   },
   "author": "AdleySlb",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdleySlbi/basic-nodesjs-back-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdleySlbi/basic-nodesjs-back-app/issues"
+  },
+  "homepage": "https://github.com/AdleySlbi/basic-nodesjs-back-app#readme"
 }
